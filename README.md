@@ -1,6 +1,2 @@
-# Wither-Bloom
-Heirs of Nowhere
----
-Copyright (c) 2026 Granat Group. Tous droits réservés. Aucune reproduction, distribution ou modification n'est autorisée sans l'accord explicite de l'auteur.
-
-Copyright (c) 2026 Granat Group. All rights reserved. No reproduction, distribution or modification is allowed without the explicit consent of the author.
+# Wither-Bloom: Heirs of Nowhere
+A 2D atmospheric platformer prototype developed in Godot Engine (GDScript), focusing on tight character controls, responsive movement mechanics, and dark fantasy aesthetics.
